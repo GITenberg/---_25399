@@ -1,0 +1,26 @@
+_repo: '---_25399'
+_version: 0.1.0
+alternative_title: Shi Dian Tou
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tianranchisou
+    alias: 天然痴叟
+    gutenberg_agent_id: '31305'
+    url: http://www.gutenberg.org/2009/agents/31305
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25399'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcc 'PL'
+title: 石點頭
+url: http://www.gutenberg.org/ebooks/25399
